@@ -1,0 +1,21 @@
+body{
+ width: 800px;
+ height: 700px;
+ margin: 40px;
+ padding: 40px; 
+  
+}
+
+.contenedor{
+    background: darkseagreen;
+    border: 40px solid cyan;
+    width: 600px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+img{
+ padding-top: 400px;
+}
